@@ -51,3 +51,25 @@
 2024-03-02 05:27:39.792 [info] Review+3> No matching pull request metadata found locally for current branch main
 2024-03-02 05:27:39.794 [info] Review+3> Failed to get upstream for branch main from git config.
 2024-03-02 05:27:39.795 [info] Review+3> No matching pull request metadata found on GitHub for current branch main
+2024-03-02 05:29:58.037 [info] Review+3> Validate state in progress
+2024-03-02 05:29:58.037 [info] Review+3> Validating state...
+2024-03-02 05:29:58.038 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-03-02 05:29:58.038 [info] No GitHub remotes found for folder /home/vscode
+2024-03-02 05:29:58.108 [info] Review+3> No matching pull request metadata found locally for current branch main
+2024-03-02 05:29:58.117 [info] Review+3> Failed to get upstream for branch main from git config.
+2024-03-02 05:29:58.117 [info] Review+3> No matching pull request metadata found on GitHub for current branch main
+2024-03-02 05:30:45.179 [info] Review+3> Validate state in progress
+2024-03-02 05:30:45.179 [info] Review+3> Validating state...
+2024-03-02 05:30:45.264 [info] Found GitHub remote for folder /home/vscode
+2024-03-02 05:30:45.665 [info] Trying to use globalState for assignableUsers.
+2024-03-02 05:30:45.732 [info] Review+3> No matching pull request metadata found locally for current branch main
+2024-03-02 05:30:45.735 [info] Review+3> Failed to get upstream for branch main from git config.
+2024-03-02 05:30:45.735 [info] Review+3> No matching pull request metadata found on GitHub for current branch main
+2024-03-02 05:30:45.862 [info] No globalState for assignableUsers.
+2024-03-02 05:36:00.102 [info] Review+3> Validate state in progress
+2024-03-02 05:36:00.102 [info] Review+3> Validating state...
+2024-03-02 05:36:00.220 [info] Found GitHub remote for folder /home/vscode
+2024-03-02 05:36:00.221 [info] Using in-memory cached assignable users.
+2024-03-02 05:36:00.295 [info] Review+3> No matching pull request metadata found locally for current branch branch-a
+2024-03-02 05:36:00.297 [info] Review+3> Failed to get upstream for branch branch-a from git config.
+2024-03-02 05:36:00.298 [info] Review+3> No matching pull request metadata found on GitHub for current branch branch-a
